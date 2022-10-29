@@ -1,1 +1,10 @@
 121212再次修改啊啊啊大撒大撒范德萨范德萨1212
+In the following table, these three classes are shown in separate sections, and these characters are used for X and Y fields for the first two sections that show tracked paths:
+' ' = unmodified
+M = modified
+T = file type changed (regular file, symbolic link or submodule)
+A = added
+D = deleted
+R = renamed
+C = copied (if config option status.renames is set to "copies")
+U = updated but unmerged
